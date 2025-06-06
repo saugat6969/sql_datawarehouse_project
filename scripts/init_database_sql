@@ -1,3 +1,6 @@
+/* Creating database and schemas */
+
+
 use master;
 go
 CREATE DATABASE Datawarehouse;
